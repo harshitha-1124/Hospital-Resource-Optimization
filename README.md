@@ -53,20 +53,8 @@ Managing a hospital effectively is a huge challenge, especially when patient inf
 
 ---
 
-## 📁 Project Structure
+## Happy ML-ing!!
 
-Hospital-Resource-Optimization/
-│
-├── data/ # Dataset files (patient records, symptoms, etc.)
-├── models/ # Trained ML models (Decision Tree, forecasting models)
-├── notebooks/ # Jupyter notebooks for analysis and model training
-├── src/ # Source code modules
-│ ├── disease_prediction.py
-│ ├── inflow_forecasting.py
-│ ├── resource_optimization.py
-│ └── utils.py
-├── requirements.txt # Required Python packages
-├── README.md # This documentation file
-└── main.py # Main executable script to run predictions & optimization
+
 
 
